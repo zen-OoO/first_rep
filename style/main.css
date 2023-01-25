@@ -1,1 +1,27 @@
-/*# sourceMappingURL=main.css.map */
+#body {
+  background-color: #EFCABF;
+}
+
+.change {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.change__btn {
+  height: 40px;
+  width: 80px;
+  color: #fff;
+  background-color: #000;
+  border: none;
+}
+
+.change__btn:hover {
+  border: 3px solid #fff;
+}
+
+.change__btn:active {
+  background-color: #fff;
+  color: #000;
+  border: 3px solid #000;
+}/*# sourceMappingURL=main.css.map */
